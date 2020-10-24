@@ -1,6 +1,6 @@
 #!/bin/bash
 case "$TRAVIS_BRANCH" in
-  "master")
+  "main")
   echo Executing after success scripts on branch $TRAVIS_BRANCH
   echo Triggering Nuget package build
 
