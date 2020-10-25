@@ -17,7 +17,7 @@
 		<Description>
 			The library give method to registry authentication to project and have custom method to create jwt token.
 		</Description>
-		<RepositoryUrl>https://github.com/flapek/Joint</RepositoryUrl>
+		<RepositoryUrl>https://github.com/flapek/Joint.Auth</RepositoryUrl>
 	</PropertyGroup>
 
 	<ItemGroup>
