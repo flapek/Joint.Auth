@@ -2,6 +2,11 @@
 
 JWT authentication.
 
+| Branch  | Build status                                                                                                           |
+| ------- | ---------------------------------------------------------------------------------------------------------------------- |
+| master  | [![Build Status](https://travis-ci.org/flapek/Joint.Auth.svg?branch=master)](https://travis-ci.org/flapek/Joint.Auth)  |
+| develop | [![Build Status](https://travis-ci.org/flapek/Joint.Auth.svg?branch=develop)](https://travis-ci.org/flapek/Joint.Auth) |
+
 ## JWT
 
 Adds the integration with [JWT][jwt] using an available authentication middleware and system components to validate and grant the access tokens.
